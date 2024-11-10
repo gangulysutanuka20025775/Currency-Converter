@@ -1,0 +1,2 @@
+A currency converter is a tool that calculates the equivalent value of one currency in another, using current exchange rates. It’s widely used in international trade, travel, and finance to compare prices, make informed transactions, and manage cross-border expenses efficiently and accurately.
+A Currency Converter in JavaScript allows real-time conversion between currencies by fetching and applying exchange rates through API integration.
